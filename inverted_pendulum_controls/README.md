@@ -32,5 +32,5 @@ Start roscore: `roscore`
 
 ### Open a New Terminal Window
 
-Gazebo Simulation: `roslaunch controls inverted_pendulum_sim.launch```
+Gazebo Simulation: `roslaunch controls inverted_pendulum_sim.launch`
 
